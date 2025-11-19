@@ -1,15 +1,5 @@
 [
   {
-    "title": "Test ongoing update",
-    "status": "ongoing",
-    "steps": [
-      {
-        "description": "Test incident step",
-        "datetime": "2025-11-19 08:01:02"
-      }
-    ]
-  },
-  {
     "title": "Network issues",
     "status": "resolved",
     "steps": [
